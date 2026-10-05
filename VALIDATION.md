@@ -12,6 +12,8 @@ Completed October 5, 2026. This is a usable public-source beta with tested mecha
 | Release review | Public metadata and all 11 distributed files reviewed; exact hashes recorded |
 | ZIP | 11 files, 33,754 bytes; archive integrity and every file's equality to its reviewed source verified |
 | Local install | `skills` CLI 1.5.18 discovered and copied Matthew AI into a temporary Codex project |
+| Public GitHub install | `npx skills add mattiika69/matthew-ai --skill matthew-ai --agent codex --copy -y` installed successfully; all 11 files matched the reviewed source |
+| Installed update | `npx skills update matthew-ai -p -y` completed successfully; the CLI reported a nonfatal deleted-skill-check warning before refreshing the skill |
 | Fresh runtime | Codex CLI 0.158.0-alpha.2.1 read the installed skill, selected relevant references, executed the calculator and separate cash arithmetic, and returned a correct prioritized response |
 | Behavior scenarios | All 18 synthetic scenarios exercised across initial/revised runs; three scenarios explicitly rerun after repairs, with imperfections retained in the reports |
 
