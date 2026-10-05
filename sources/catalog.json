@@ -1,0 +1,135 @@
+[
+  {
+    "id": "S001",
+    "type": "public-video-transcript",
+    "title": "How To Create An Amazing Offer (FULL COURSE)",
+    "url": "https://www.youtube.com/watch?v=HS8EjMBhG8o",
+    "date": "2026-09-14",
+    "author": "Matthew Larsen",
+    "topics": [
+      "offers",
+      "positioning",
+      "economics",
+      "messaging",
+      "proof"
+    ],
+    "raw_path": "raw/S001.md",
+    "sha256": "825beb4d408eea77d219bef5aed06e1587d35bafdd604a02027c3039fab59335",
+    "curated_files": [
+      "examples/worked-reasoning.md",
+      "references/acquisition-copy.md",
+      "references/diagnosis.md",
+      "references/economics-benchmarks.md",
+      "references/offers-positioning.md"
+    ],
+    "visibility": "public",
+    "publication_status": "cleared",
+    "capture_method": "Secondary timestamped transcript; YouTube identity/date verified",
+    "coverage": "Full timestamped text (32161 words); not checked against audio; no slide/image verification",
+    "retrieved_at": "2026-10-05",
+    "transcript_url": "https://moderncreator.app/2026-09-14-matthew-larsen-the-exact-system-to-make-an-offer-that-converts",
+    "transcript_status": "secondary_mirror_unverified_against_audio",
+    "primary_identity_verified": true,
+    "review_note": "Codex reviewed public-source curated paraphrases, exact citation mappings, context and source-confidence caveats; no private member material or raw transcripts released. This is not Matthew approval or audio verification.",
+    "primary_metadata_path": "raw/primary-metadata/S001.youtube.metadata.json",
+    "primary_description_path": "raw/primary-metadata/S001.youtube.description.txt"
+  },
+  {
+    "id": "S002",
+    "type": "public-video-transcript",
+    "title": "How To Build A Funnel That Converts Like Crazy (FULL COURSE)",
+    "url": "https://www.youtube.com/watch?v=Ra3_QNPzBeA",
+    "date": "2026-09-25",
+    "author": "Matthew Larsen",
+    "topics": [
+      "funnels",
+      "copy",
+      "qualification",
+      "sales",
+      "benchmarks"
+    ],
+    "raw_path": "raw/S002.md",
+    "sha256": "5b9ec0036acf1522142c2d2488e33a6f5946ec5ecac2785c5537596d690fedd0",
+    "curated_files": [
+      "references/acquisition-copy.md",
+      "references/diagnosis.md",
+      "references/economics-benchmarks.md",
+      "references/funnel-execution.md"
+    ],
+    "visibility": "public",
+    "publication_status": "cleared",
+    "capture_method": "Secondary timestamped transcript; YouTube identity/date verified",
+    "coverage": "Full timestamped text (29665 words); not checked against audio; no slide/image verification",
+    "retrieved_at": "2026-10-05",
+    "transcript_url": "https://moderncreator.app/2026-09-25-matthew-larsen-how-to-build-a-funnel-that-converts-like-crazy-full-course",
+    "transcript_status": "secondary_mirror_unverified_against_audio",
+    "primary_identity_verified": true,
+    "review_note": "Codex reviewed public-source curated paraphrases, exact citation mappings, context and source-confidence caveats; no private member material or raw transcripts released. This is not Matthew approval or audio verification.",
+    "primary_metadata_path": "raw/primary-metadata/S002.youtube.metadata.json",
+    "primary_description_path": "raw/primary-metadata/S002.youtube.description.txt"
+  },
+  {
+    "id": "S003",
+    "type": "public-video-transcript",
+    "title": "Watch Me Rebuild This Content Agency's Entire Ad Funnel (LIVE AUDIT)",
+    "url": "https://www.youtube.com/watch?v=h1D4F8AXWS4",
+    "date": "2026-08-31",
+    "author": "Matthew Larsen",
+    "topics": [
+      "offers",
+      "copy",
+      "funnels",
+      "applied-audit"
+    ],
+    "raw_path": "raw/S003.md",
+    "sha256": "3be021cf3d4c686a8868095085b95cb76495b72e5f737fd207f6251b7d196f08",
+    "curated_files": [
+      "examples/worked-reasoning.md",
+      "references/acquisition-copy.md",
+      "references/diagnosis.md",
+      "references/offers-positioning.md"
+    ],
+    "visibility": "public",
+    "publication_status": "cleared",
+    "capture_method": "Secondary timestamped transcript; YouTube identity/date verified",
+    "coverage": "Full timestamped text (9014 words); not checked against audio; no slide/image verification",
+    "retrieved_at": "2026-10-05",
+    "transcript_url": "https://moderncreator.app/2026-08-31-matthew-larsen-watch-me-rebuild-this-content-agency-s-entire-ad-funnel-live-audit",
+    "transcript_status": "secondary_mirror_unverified_against_audio",
+    "primary_identity_verified": true,
+    "review_note": "Codex reviewed public-source curated paraphrases, exact citation mappings, context and source-confidence caveats; no private member material or raw transcripts released. This is not Matthew approval or audio verification.",
+    "primary_metadata_path": "raw/primary-metadata/S003.youtube.metadata.json",
+    "primary_description_path": "raw/primary-metadata/S003.youtube.description.txt"
+  },
+  {
+    "id": "S004",
+    "type": "public-video-transcript",
+    "title": "The Exact System To Get Your First Client With Paid Ads (STEP BY STEP)",
+    "url": "https://www.youtube.com/watch?v=qhAHUM1-l1c",
+    "date": "2026-09-03",
+    "author": "Matthew Larsen",
+    "topics": [
+      "offers",
+      "copy",
+      "paid-acquisition"
+    ],
+    "raw_path": "raw/S004.md",
+    "sha256": "e11f4088cfaa49cf6fce90df3543ec1ded1c0db32cd284db8bc699ce3c03a6a0",
+    "curated_files": [
+      "examples/worked-reasoning.md",
+      "references/acquisition-copy.md",
+      "references/offers-positioning.md"
+    ],
+    "visibility": "public",
+    "publication_status": "cleared",
+    "capture_method": "Secondary timestamped transcript; YouTube identity/date verified",
+    "coverage": "Full timestamped text (3968 words); not checked against audio; no slide/image verification",
+    "retrieved_at": "2026-10-05",
+    "transcript_url": "https://moderncreator.app/2026-09-03-matthew-larsen-the-exact-system-to-get-your-first-client-with-paid-ads",
+    "transcript_status": "secondary_mirror_unverified_against_audio",
+    "primary_identity_verified": true,
+    "review_note": "Codex reviewed public-source curated paraphrases, exact citation mappings, context and source-confidence caveats; no private member material or raw transcripts released. This is not Matthew approval or audio verification.",
+    "primary_metadata_path": "raw/primary-metadata/S004.youtube.metadata.json",
+    "primary_description_path": "raw/primary-metadata/S004.youtube.description.txt"
+  }
+]

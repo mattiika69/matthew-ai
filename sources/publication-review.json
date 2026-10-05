@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "reviewer": "Codex source and publication review",
+  "note": "Reviewed public catalog metadata including ignored primary-evidence paths, curated paraphrases, source scope and corrections, and every distributed skill file. Public teaching only; raw captures and private member data excluded. Agent review, not Matthew approval or audio verification.",
+  "reviewed_at": "2026-10-05T17:44:19.623974+00:00",
+  "sha256": {
+    "skills/matthew-ai/SKILL.md": "37302f10e7f3dbaa414886c52c80464bb851403c68bd4ad0ab47ba6e8d1fa59c",
+    "skills/matthew-ai/examples/worked-reasoning.md": "a3fb419cd7b604661c9eb3ea86cda4e78c600bf16e65a3b25895e6f54b21b544",
+    "skills/matthew-ai/references/acquisition-copy.md": "3bdf2c70d7b5b2091c7ea9fe05f1227ccccbdbeb94355056e33a46874f3f04f8",
+    "skills/matthew-ai/references/diagnosis.md": "e4ea377dcfaeb2cab0a672d4a4c39867733ddd3ab690417cc7b65221a7a49df7",
+    "skills/matthew-ai/references/economics-benchmarks.md": "434013644604950d4cb675246b90e5fd161a60f9a7aef392e2c581ba3ca45c1c",
+    "skills/matthew-ai/references/funnel-execution.md": "09cd68288a6ed126668d2bb4fa78d03924d386d478c652a80c9849d9285335c7",
+    "skills/matthew-ai/references/metric-definitions.md": "a5f36ff9b062d5f5b01a0e0540e3e41d1c38c4fe20d8fc1b90beec8e3d4dfa35",
+    "skills/matthew-ai/references/offers-positioning.md": "2e355257042079bfdfd894312ce44a62acf7bbaa60144de8f2e2f49e7f82cdf5",
+    "skills/matthew-ai/references/sources.md": "7a2916885918fbd92cb110ed757e934b7ad998f3b988d5758fc998655be83344",
+    "skills/matthew-ai/scripts/metrics.py": "04a234c4bfbd6f7f642263f6b1cd0265350413c29df8b576f652f12ebdce513d",
+    "skills/matthew-ai/templates/business-context.md": "de2c6a2c66381208091b6c61b47d7d46f8f0959bd0237d92985e9fdabeb2e0b1",
+    "sources/catalog.json": "c1df67cb9a587e8478f9a61aab8556e291939852b33a9373418073782c658773"
+  }
+}
